@@ -1,0 +1,8 @@
+node_modules
+.next
+.vercel
+.env
+.env.local
+.owner-bootstrap-password
+*.tsbuildinfo
+.DS_Store

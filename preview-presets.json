@@ -1,0 +1,12 @@
+{
+  "ipad-pos-landscape": {
+    "width": 1024,
+    "height": 768,
+    "description": "iPad landscape baseline for the POS split-pane layout"
+  },
+  "ipad-pos-portrait": {
+    "width": 768,
+    "height": 1024,
+    "description": "iPad portrait breakpoint for the POS mobile layout"
+  }
+}
